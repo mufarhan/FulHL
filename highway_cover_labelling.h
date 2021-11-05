@@ -1,21 +1,16 @@
 #ifndef HGHWAY_LABELING_H_
 #define HGHWAY_LABELING_H_
 
-#include <stdint.h>
 #include <sys/time.h>
 #include <iostream>
-#include <sstream>
 #include <string>
 #include <vector>
 #include <set>
-#include <math.h>
 #include <queue>
 #include <unordered_set>
 #include <map>
 #include <algorithm>
 #include <fstream>
-#include <utility>
-#include <limits>
 
 #include "two_layer_queue.h"
 
