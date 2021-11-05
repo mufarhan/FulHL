@@ -4,7 +4,6 @@
 #include <stdint.h>
 #include <sys/time.h>
 #include <iostream>
-#include <thread>
 #include <sstream>
 #include <string>
 #include <vector>
