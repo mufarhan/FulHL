@@ -1,7 +1,7 @@
 ## Fully dynamic highway labelling (FulHL)
 This is the implementation of the paper "Fast Fully Dynamic Labelling For Distance Queries".
 
-## Sample Data Format
+## Sample data format
 The format of the dataset text file is as follows: <br/>
 Line 1 : |V| |E| <br/>
 Line 2 : vertex_u deg_u v1 ... vn, where v1 to vn are neighbors of u. Note that the vertex id are from 0 to (V-1), where V is the number of vertices. There are no self loops in the graph, i.e., no edge from any vertex to itself. 
