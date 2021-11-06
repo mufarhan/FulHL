@@ -8,7 +8,7 @@ Line 2 : vertex_u deg_u v1 ... vn, where v1 to vn are neighbors of u. Note that 
 
 To see the accepted format for graphs, updates and query pairs, you may refer to the Sample Data folder. After the test inputs are ready, please use the following commands to test FulHL.
 
-## 1 - Compile source files using the following command:<br/>
+## 1 - Compile source files using the following command:
 
 $ g++ -O3 -std=c++11 main.cpp -o run
 
@@ -22,7 +22,7 @@ Example:<br/>
 ./run construct_labelling graph.txt 20 graph_labelling
 
 ## 3 - Update Labelling:<br/>
-./run update_labelling @1 @2 @3 @4 @5 @6<br/>
+./run update_labelling @1 @2 @3 @4 @5 @6
 @1: name of the dataset<br/>
 @2: number of landmarks<br/>
 @3: file to load the labelling from<br/>
