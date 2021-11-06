@@ -8,8 +8,6 @@ Line 2 : vertex_u deg_u v1 ... vn, where v1 to vn are neighbors of u. Note that 
 
 To see the accepted format for graphs, updates and query pairs, you may refer to the Sample Data folder. After the test inputs are ready, please use the following commands to test FulHL.
 
-=====================================
-
 ##1 - Compile source files using the following command:<br/>
 
 $ g++ -O3 -std=c++11 main.cpp -o run
