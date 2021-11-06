@@ -46,4 +46,4 @@ Example:<br/>
 
 ## References
 
-* Muhammad Farhan, Qing Wang, Yu Lin, and Brendan McKay, Fast fully dynamic labelling for distance queries.
+Muhammad Farhan, Qing Wang, Yu Lin, and Brendan McKay, **[Fast fully dynamic labelling for distance queries.]
