@@ -12,8 +12,6 @@ To see the accepted format for graphs, updates and query pairs, you may refer to
 
 $ g++ -O3 -std=c++11 main.cpp -o run
 
-=====================================
-
 ## 2 - Construct Labelling:<br/>
 ./run construct_labelling @1 @2 @3<br/>
 @1: name of the dataset<br/>
@@ -22,8 +20,6 @@ $ g++ -O3 -std=c++11 main.cpp -o run
 
 Example:<br/>
 ./run construct_labelling graph.txt 20 graph_labelling
-
-=====================================
 
 ## 3 - Update Labelling:<br/>
 ./run update_labelling @1 @2 @3 @4 @5 @6<br/>
@@ -35,8 +31,6 @@ Example:<br/>
 
 Example:<br/>
 ./run update_labelling graph.txt 20 graph_labelling batch.txt 0
-
-=====================================
 
 ## 4 - Perform distance queries<br/>
 ./run query-dis @1 @2 @3 @4 @5<br/>
