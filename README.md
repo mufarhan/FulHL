@@ -22,7 +22,7 @@ Example:<br/>
 ./run construct_labelling graph.txt 20 graph_labelling
 
 ## 3 - Update Labelling
-./run update_labelling @1 @2 @3 @4 @5 @6
+./run update_labelling @1 @2 @3 @4 @5 @6<br/>
 @1: name of the dataset<br/>
 @2: number of landmarks<br/>
 @3: file to load the labelling from<br/>
@@ -40,5 +40,5 @@ Example:<br/>
 @4: file containing query pairs<br/>
 @5: file to write query results<br/>
 
-Example:
+Example:<br/>
 ./run query_labelling graph.txt 20 graph_labelling query_pairs.txt query_results.txt
