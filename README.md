@@ -1,5 +1,7 @@
 ## Fully dynamic highway labelling (FulHL)
-This is the implementation of the paper "Fast Fully Dynamic Labelling For Distance Queries".
+This is the implementation of the paper<br/>
+
+Muhammad Farhan, Qing Wang, Yu Lin, and Brendan McKay, **[Fast fully dynamic labelling for distance queries.](https://link.springer.com/article/10.1007/s00778-021-00707-z)**
 
 ## Sample data format
 The format of the dataset text file is as follows: <br/>
@@ -42,8 +44,3 @@ Example:<br/>
 
 Example:<br/>
 ./run query_labelling graph.txt 20 graph_labelling query_pairs.txt query_results.txt
-
-
-## References
-
-Muhammad Farhan, Qing Wang, Yu Lin, and Brendan McKay, **[Fast fully dynamic labelling for distance queries.](https://link.springer.com/article/10.1007/s00778-021-00707-z)**
