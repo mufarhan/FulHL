@@ -42,3 +42,8 @@ Example:<br/>
 
 Example:<br/>
 ./run query_labelling graph.txt 20 graph_labelling query_pairs.txt query_results.txt
+
+
+## References
+
+* Muhammad Farhan, Qing Wang, Yu Lin, and Brendan McKay, Fast fully dynamic labelling for distance queries.
