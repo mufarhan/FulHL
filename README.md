@@ -16,7 +16,7 @@ $ g++ -O3 -std=c++11 main.cpp -o run
 
 =====================================
 
-##2 - Construct Labelling:<br/>
+###2 - Construct Labelling:<br/>
 ./run construct_labelling @1 @2 @3<br/>
 @1: name of the dataset<br/>
 @2: number of landmarks<br/>
@@ -27,7 +27,7 @@ Example:<br/>
 
 =====================================
 
-##3 - Update Labelling:<br/>
+###3 - Update Labelling:<br/>
 ./run update_labelling @1 @2 @3 @4 @5 @6<br/>
 @1: name of the dataset<br/>
 @2: number of landmarks<br/>
@@ -40,7 +40,7 @@ Example:<br/>
 
 =====================================
 
-##4 - Perform distance queries<br/>
+###4 - Perform distance queries<br/>
 ./run query-dis @1 @2 @3 @4 @5<br/>
 @1: name of the dataset<br/>
 @2: number of landmarks<br/>
