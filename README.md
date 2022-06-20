@@ -1,5 +1,5 @@
 ## Fully dynamic highway labelling (FulHL)
-This is the implementation of the paper<br/>
+This is an implementation of the paper<br/>
 
 Muhammad Farhan, Qing Wang, Yu Lin, and Brendan McKay, **[Fast fully dynamic labelling for distance queries.](https://link.springer.com/article/10.1007/s00778-021-00707-z)**
 
