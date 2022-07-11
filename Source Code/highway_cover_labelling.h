@@ -20,7 +20,7 @@
 
 class HighwayLabelling {
  public:
-  // Constructs an index from a graph, given as a list of edges.
+  // Constructs labelling for a graph, given as a list of edges.
   HighwayLabelling(std::string filename, int k);
   HighwayLabelling();
   ~HighwayLabelling();
