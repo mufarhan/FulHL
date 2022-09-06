@@ -32,7 +32,7 @@ Example:<br/>
 @5: method parameter for incremental updates (0 - not to prune or 1 - to prune)<br/>
 
 Example:<br/>
-./run update_labelling graph.txt 20 graph_labelling batch.txt 0
+./run update_labelling graph.txt 20 graph_labelling updates.txt 0
 
 ## 4 - Perform distance queries
 ./run query-dis @1 @2 @3 @4 @5<br/>
